@@ -1,4 +1,5 @@
 infinispan-queue
 ================
 
-Queue Implementation using Infinispan
+Queue Implementation using Infinispan Data Grid.
+
